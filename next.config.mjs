@@ -1,4 +1,4 @@
-import "./env.mjs"
+ import "./env.mjs"
 
 const isDev = process.argv.indexOf('dev') !== -1
 const isBuild = process.argv.indexOf('build') !== -1

@@ -13,14 +13,7 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
           <Icons.logo />
           <p className="text-center text-sm leading-loose md:text-left">
             Built by{" "}
-            <a
-              href={siteConfig.links.twitter}
-              target="_blank"
-              rel="noreferrer"
-              className="font-medium underline underline-offset-4"
-            >
-              shadcn
-            </a>
+              brrock (orignally shadcn)
             . Hosted on{" "}
             <a
               href="https://vercel.com"

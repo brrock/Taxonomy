@@ -39,14 +39,14 @@ export const metadata = {
   ],
   authors: [
     {
-      name: "shadcn",
-      url: "https://shadcn.com",
+      name: "brrock",
+      url: "https://benjyross.xyz",
     },
   ],
-  creator: "shadcn",
+  creator: "brrock",
   openGraph: {
     type: "website",
-    locale: "en_US",
+    locale: "en_GB",
     url: siteConfig.url,
     title: siteConfig.name,
     description: siteConfig.description,
@@ -89,7 +89,6 @@ export default function RootLayout({ children }: RootLayoutProps) {
           {children}
           <Analytics />
           <Toaster />
-          <TailwindIndicator />
         </ThemeProvider>
       </body>
     </html>

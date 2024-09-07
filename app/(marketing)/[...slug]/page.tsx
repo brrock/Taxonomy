@@ -36,7 +36,7 @@ export async function generateMetadata({
     return {}
   }
 
-  const url = env.NEXT_PUBLIC_APP_URL
+  const url = "localhost:3000"
 
   const ogUrl = new URL(`${url}/api/og`)
   ogUrl.searchParams.set("heading", page.title)
