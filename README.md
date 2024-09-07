@@ -16,7 +16,7 @@ A few people have asked me to turn this into a starter. I think we could do that
 ## Note on Performance
 
 > **Warning**
-> This app is using the unstable releases for Next.js 13 and React 18. The new router and app dir is still in beta and not production-ready.
+> This app is using the unstable releases for Next.js 14 and React 18. The new router and app dir is still in beta and not production-ready.
 > **Expect some performance hits when testing the dashboard**.
 > If you see something broken, you can ping me @brrock
 
