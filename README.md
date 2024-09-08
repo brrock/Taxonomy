@@ -32,7 +32,7 @@ A few people have asked me to turn this into a starter. I think we could do that
 - API Routes and Middlewares
 - Authentication using **NextAuth.js**
 - ORM using **Prisma**
-- Database on **PlanetScale**
+- Database on **Neon**
 - UI Components built using **Shadcn UI**
 - Documentation and blog using **MDX** and **Velite **
 - Subscriptions using **Stripe**
