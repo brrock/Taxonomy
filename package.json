@@ -82,7 +82,7 @@
     "eslint-plugin-tailwindcss": "^3.17.4",
     "husky": "^9.1.5",
     "input-otp": "^1.2.4",
-    "lucide-react": "^0.356.0",
+    "lucide-react": "^0.439.0",
     "next": "^14.2.8",
     "next-auth": "^4.24.7",
     "next-themes": "^0.3.0",
