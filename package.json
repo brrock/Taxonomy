@@ -86,7 +86,7 @@
     "next": "^14.2.8",
     "next-auth": "^4.24.7",
     "next-themes": "^0.3.0",
-    "nodemailer": "^6.9.14",
+    "nodemailer": "^6.9.15",
     "postcss": "^8.4.45",
     "postmark": "^4.0.5",
     "prettier": "^3.3.3",
