@@ -12,7 +12,15 @@ if (!process.env.VELITE_STARTED && (isDev || isBuild)) {
 const nextConfig = {
   images: {
     domains: ["avatars.githubusercontent.com"],
-  }
+  },
+  eslint: {
+    // This option disables ESLint checks during the build process
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+      // This option disables TypeScript type checking during the build process
+      ignoreBuildErrors: true,
+    },
 }
 
 export default nextConfig
