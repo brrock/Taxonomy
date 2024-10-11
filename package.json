@@ -101,7 +101,7 @@
     "react-hook-form": "^7.53.0",
     "react-resizable-panels": "^2.1.4",
     "react-textarea-autosize": "^8.5.4",
-    "recharts": "^2.12.7",
+    "recharts": "^2.13.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-pretty-code": "^0.14.0",
     "rehype-slug": "^6.0.0",
